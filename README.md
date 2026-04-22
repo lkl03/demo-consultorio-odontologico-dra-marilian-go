@@ -1,2 +1,7 @@
-# demo-consultorio-odontologico-dra-marilian-go
-Demo web para Consultorio Odontológico Dra. Marilian Gonzalez — diseñada por eterlab.
+# Consultorio Odontológico Dra. Marilian Gonzalez
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
